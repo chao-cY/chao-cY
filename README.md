@@ -5,6 +5,3 @@
 
 - 📫 How to reach me **c.yin@vu.nl**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
